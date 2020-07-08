@@ -15,20 +15,17 @@ On filling the form, the datasets namely SNV dataset and Hand Gesture dataset wi
 - keras = 2.2.5
 
 ## Usage
-To train VAE for the source domain 
-'''
-python vae.py
-'''
+
 
 Train segmentation network on the source domain 
-'''
-python seg.py
-'''
+```
+python u_efficientnet.py
+```
 
-Perfom Latent search on Target domain. 
-'''
-python Latent_search.py
-''''
+To train VAE and Perfom Latent search on Target domain. 
+```
+python vae_u-efficientnet_latent_search.py
+```
 
 
 
