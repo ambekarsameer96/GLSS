@@ -26,7 +26,11 @@ To train VAE and Perfom Latent search on Target domain.
 ```
 python vae_u-efficientnet_latent_search.py
 ```
+To Train Vae with Perceptual loss with Deeplabs
 
+```
+python vae_DeepLabs-frez--PL-LS.py
 
+```
 
 
