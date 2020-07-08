@@ -14,7 +14,7 @@ On filling the form, the datasets namely SNV dataset and Hand Gesture dataset wi
 - python = 3.6
 - keras = 2.2.5
 
-## Usage
+
 ## Preprocessing 
 Image were reshaped to 128x128 dimension and normalized between -1 to 1. 
 
