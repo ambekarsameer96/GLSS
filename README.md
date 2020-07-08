@@ -9,12 +9,12 @@ Kindly fill the form to download the dataset
 https://forms.gle/y5vPeyT6zi9gdqD57
 On filling the form, the datasets namely SNV dataset and Hand Gesture dataset willl be shared by email.
 
-#Requirements 
+## Requirements 
 - tensorflow = 1.14.0
 - python = 3.6
 - keras = 2.2.5
 
-##Usage
+## Usage
 To train VAE for the source domain 
 '''
 python vae.py
