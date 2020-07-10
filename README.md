@@ -36,4 +36,14 @@ python vae_DeepLabs-frez--PL-LS.py
 
 ```
 
+## Cite
+```
+@article{pandey2020skin,
+  title={Skin Segmentation from NIR Images using Unsupervised Domain Adaptation through Generative Latent Search},
+  author={Pandey, Prashant and Tyagi, Aayush Kumar and Ambekar, Sameer and AP, Prathosh},
+  journal={arXiv preprint arXiv:2006.08696},
+  year={2020}
+}
+```
+
 
