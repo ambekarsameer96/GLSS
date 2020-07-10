@@ -33,7 +33,6 @@ To Train Vae with Perceptual loss with Deeplabs
 
 ```
 python vae_DeepLabs-frez--PL-LS.py
-
 ```
 
 ## Cite
