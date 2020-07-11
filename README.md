@@ -1,13 +1,20 @@
 # Skin Segmentation from NIR Images using Unsupervised Domain Adaptation through Generative Latent Search
-Code for the paper 'Skin Segmentation from NIR Images using Unsupervised Domain Adaptation through Generative Latent Search'. Accepted in ECCV2020 (Spotlight). Preprint: https://arxiv.org/abs/2006.08696
+Tensrflow Implementation of our method  to transfer the bias from the source to the target domain. The latent space of a generative model, learnt on the source domain, is employed to find the "clones" for the target samples. As the "clones" are sampled from the source distribution, an oracle segmentation model learnt only on source, will interpret these "clones" of target samples in a better way, thereby reducing the domain shift. The proposed method guarantees to reduce the shift.
+
+## Paper
+'Skin Segmentation from NIR Images using Unsupervised Domain Adaptation through Generative Latent Search'.
+Accepted in ECCV2020 (Spotlight). 
+Preprint: https://arxiv.org/abs/2006.08696
 
 ![](images/arch.png)
+
+## Example Results
 ![](images/image_grid.png)
 
 ## Download dataset
 Kindly fill the form to download the dataset 
 https://forms.gle/y5vPeyT6zi9gdqD57
-On filling the form, the datasets namely SNV dataset and Hand Gesture dataset willl be shared by email.
+On filling the form, the datasets namely SNV dataset and Hand Gesture dataset will be shared by email.
 
 ## Requirements 
 - tensorflow = 1.14.0
