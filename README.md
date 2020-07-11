@@ -12,7 +12,9 @@ Preprint: https://arxiv.org/abs/2006.08696
 ![](images/image_grid.png)
 
 ## Quantitative Results
-<div style="text-align:center"><img src="images/Baseline_GLSS.png" /></div>
+<p align="center">
+  <img width="645" height="262" src="images/Baseline_GLSS.png">
+</p>
 
 ## Download dataset
 Kindly fill the form to download the dataset 
