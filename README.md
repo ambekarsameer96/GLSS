@@ -11,6 +11,9 @@ Preprint: https://arxiv.org/abs/2006.08696
 ## Example Results
 ![](images/image_grid.png)
 
+## Quantitative Results
+![](images/Baseline_GLSS.png)
+
 ## Download dataset
 Kindly fill the form to download the dataset 
 https://forms.gle/y5vPeyT6zi9gdqD57
