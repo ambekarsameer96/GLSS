@@ -16,7 +16,7 @@ Preprint: https://arxiv.org/abs/2006.08696
   <img width="645" height="262" src="images/Baseline_GLSS.png">
 </p>
 
-## Download dataset
+## Dataset Access
 Kindly fill the form to download the dataset 
 https://forms.gle/y5vPeyT6zi9gdqD57
 On filling the form, the datasets namely SNV dataset and Hand Gesture dataset will be shared by email.
